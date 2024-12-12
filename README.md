@@ -95,4 +95,5 @@ variables: Словарь для хранения объявленных пер�
 
 ![image](https://github.com/user-attachments/assets/509cbc7d-3d2d-40a4-aca3-c516c5c2ac3d)
 
+![image](https://github.com/user-attachments/assets/7240e83d-b33e-4244-88d2-a5d02861640c)
 
