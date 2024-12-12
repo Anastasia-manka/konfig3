@@ -1,0 +1,32 @@
+# Это комментарий
+def name = q(John Doe)
+def age = 30
+def is_active = true
+def tags = {tag1, tag2, tag3}
+def nested = {key1 = value1, key2 = value2}
+
+variable1 = name
+variable2 = age
+variable3 = tags
+variable4 = nested
+
+| 2 + 2
+
+# Обработка строк и чисел
+def greeting = q(Hello, World!)
+def pi = 3.14
+
+# Присваивание переменных
+variable5 = greeting
+variable6 = pi
+
+# Выражение с переменной
+| age * 2
+
+# Обработка массива с числами
+def numbers = {1, 2, 3, 4, 5}
+variable7 = numbers
+
+# Вложенные массивы
+def nested_array = {{1, 2}, {3, 4}, {5, 6}}
+variable8 = nested_array
